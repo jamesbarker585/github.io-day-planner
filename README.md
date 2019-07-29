@@ -3,9 +3,8 @@ A daily planner todolist type web app built using React and Redux.
 
 ![alt text](./Screenshot.png "Day Planner Web App")
 
-## Installation
-1. npm install
-2. npm start
+## Deployment 
+https://thawing-mesa-88891.herokuapp.com
 
 ## Description
 This is a day planner app that has the functionality of a todolist app. You can add new plans along with when they are due or when you should start them. You can also attach a memo to describe the plan that you want to add.
